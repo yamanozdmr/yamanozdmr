@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/bv3Nn9F/Mor-ve-Pembe-Renkli-Yay-nc-Twitch-Banner-2.png)
+![MasterHead](https://r.resimlink.com/JlQIBTU0Sb.png)
 <h1 align="center">Hi 👋, I'm Yaman</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
