@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  I am a 21 year old game developer.<br>📚 I have been developing myself in the field of game development since 2023.<br>👋 Contact me: yamanozdmr@gmail.com</p>
 
 ###
 
