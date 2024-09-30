@@ -1,6 +1,6 @@
 ###
 
-<p align="left">My name is Yaman Özdemir and I'm a game developer from Türkiye</p>
+<p align="left">My name is Yaman Özdemir and I'm a game developer from Turkey</p>
 
 ###
 
